@@ -18,3 +18,29 @@ main {
   margin: 0 auto;
   padding: 1rem;
 }
+
+h2 {
+  color: #1e3a5f;
+}
+
+.identificacao {
+  margin: 0.5rem 0 0;
+  opacity: 0.9;
+}
+
+.cards {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 1rem;
+}
+
+.card {
+  padding: 1rem;
+  background: #fff;
+  border: 1px solid #e5e7eb;
+  border-radius: 8px;
+}
+
+.card h3 {
+  margin-top: 0;
+}
