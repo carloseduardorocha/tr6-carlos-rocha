@@ -2,6 +2,12 @@
 
 Página HTML simples que apresenta ferramentas de qualidade de software. Foi feita na prática "Primeiros Passos com Git" da disciplina de Qualidade de Software (UFSM, Prof. Joel da Silva) para exercitar controle de versões, issues, branches, pull requests, integração contínua e publicação.
 
+## Página publicada
+
+https://carloseduardorocha.github.io/tr6-carlos-rocha/
+
+Publicada pelo GitHub Pages a cada push na `main`, depois que o pipeline valida o HTML (`.github/workflows/pages.yml`).
+
 ## Estrutura
 
 ```
