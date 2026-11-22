@@ -9,6 +9,7 @@ tr6-carlos-rocha/
 ├── public/
 │   ├── index.html   # página
 │   └── style.css    # estilos
+├── .github/workflows/pages.yml   # validação e publicação
 ├── .gitignore
 └── README.md
 ```
