@@ -44,3 +44,8 @@ h2 {
 .card h3 {
   margin-top: 0;
 }
+
+.card a {
+  color: #1e3a5f;
+  font-weight: 600;
+}
